@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, My name is Angga Saputra</h1>
+<div align="center"> <img src="https://github.com/Angsa077/Angsa077/blob/main/onodera1.png"> </div>
 <h3 align="center">I am a fullstack web developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
