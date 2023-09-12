@@ -22,4 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angsa077&show_icons=true&locale=en&layout=compact" alt="angsa077" /></p>
 
 ### 📈 My GitHub Contributions
-![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Angsa077/Angsa077/blob/output/github-contribution-grid-snake.svg)
