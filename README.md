@@ -1,5 +1,4 @@
 <h1 align="left">Hi, My name is Angga Saputra</h1>
-<div align="left"> <img src="https://github.com/Angsa077/Angsa077/blob/main/onodera.png" width="50%"> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angsa077&label=Profile%20views&color=0e75b6&style=flat" alt="angsa077" /> </p>
 
